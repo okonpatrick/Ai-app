@@ -1,4 +1,5 @@
 Project Name: Agro Pro (Mobile App - ReactJS)
+(Strictly mobile-this was a contingency plan that's why reactjs was used for this project)
 
 Description:
 This mobile app was designed to assist farmers and agricultural professionals in identifying plant diseases through image recognition and AI-powered diagnosis. It aimed to:
